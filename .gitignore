@@ -1,0 +1,15 @@
+*.o
+*.tar
+*.tar.gz
+*.zip
+lab2/task1
+lab2/task2
+lab2/task3
+lab2/task4
+lab2/task5_O2
+lab2/task5_Os
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.vscode/
+Work/
