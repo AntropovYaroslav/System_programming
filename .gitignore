@@ -1,5 +1,4 @@
 *.o
-*.tar
 *.tar.gz
 *.zip
 lab2/task1
@@ -12,4 +11,3 @@ lab2/task5_Os
 __pycache__/
 *.pyc
 .vscode/
-Work/
